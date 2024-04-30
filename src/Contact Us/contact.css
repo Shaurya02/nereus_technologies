@@ -1,0 +1,86 @@
+.contactUs{
+    background-color: #51CBE4;
+    height: 390px;
+    background-image: url('../../public/Contact Us/logo.png');
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+.getInTouch{
+    font-family: 'Helvetica Neue';
+    font-size: 48px;
+    font-style: italic;
+    font-weight: 900;
+    line-height: 43px;
+    text-align: center;
+
+}
+
+#name{
+    height: 27px;
+    margin-bottom: 24px;
+}
+
+#email{
+    height: 27px;
+}
+
+#message{
+    height: 78px;
+    resize: none;
+    overflow: hidden;
+}
+
+textarea, input{
+    border: none;
+    border-bottom: 2px solid black;
+    width: 330px;
+    padding-bottom: 8px;
+    font-family: 'SF Compact Medium';
+    font-size: 16px;
+    font-style: italic;
+}
+
+textarea::placeholder, input::placeholder{
+    color: #347988;
+}
+
+textarea:focus, input:focus{
+    outline: none;
+}
+
+.submit{
+    padding: 8px 24px;
+    border-radius: 100px;
+    border: 2px solid #060606
+}
+
+.contactIcon{
+    height: 40px;
+    width: 40px;
+}
+
+.moveMendMaster{
+    font-family: 'SF Compact Medium';
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 600;
+}
+
+#nereus{
+    font-family: "Avenir LT Pro Medium";
+    font-size: 61.94px;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 67.94px;
+    margin-top: -20px;
+}
+
+#technologies{
+    font-family: "Avenir LT Pro Medium";
+    font-size: 29.62px;
+    font-style: italic;
+    font-weight: 500;
+    line-height: 32.49px;
+    letter-spacing: 0.015em;
+}

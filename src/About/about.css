@@ -1,0 +1,44 @@
+.about {
+    background-image: linear-gradient(180deg, #0C0C0C 0%, rgba(12, 12, 12, 0.75) 20%, rgba(12, 12, 12, 0.75) 51.5%, rgba(12, 12, 12, 0.75) 81.36%, #0C0C0C 100%), url('../../public/About/about-bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: -140px;
+}
+
+.aboutUsTitle{
+    font-family: 'Helvetica Neue';
+    font-size: 64px;
+    color: white;
+    font-style: italic;
+    font-weight: 900;
+    line-height: 76.22px;
+    text-align: left;    
+}
+
+.aboutUsDescription{
+    font-family: 'SF Compact Medium';
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28.8px;
+    color: white;
+}
+
+.aboutUsSpan{
+    color: #5AD5EF;    
+    
+}
+
+.photo{
+    width: 96px;
+    height: 96px;
+    margin-top: 5px;
+}
+
+.name{
+    font-family: 'Helvetica Neue';
+    font-size: 32px;
+    font-style: italic;
+    font-weight: 900;
+    line-height: 35.1px;
+    margin-top: 5px;
+}

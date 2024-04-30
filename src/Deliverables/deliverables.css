@@ -1,0 +1,187 @@
+.spotlight{
+    font-family: 'Helvetica Neue';
+    font-size: 32px;
+    font-style: italic;
+    font-weight: 900;
+    line-height: 31.68px;
+    text-align: center;
+    -webkit-background-clip: text;
+    background: linear-gradient(90deg, #D2D2D2 0%, #FFFFFF 20%, #FFFFFF 80%, #D2D2D2 100%);
+    background-clip: text;
+    color: transparent;      
+}
+
+.left1{
+    height: 30%;
+    width: 100%;
+    border-radius: 20px;
+    background: url("../../public/Deliverables/left-1.png");
+    background-position: 120%;
+    background-color: #5dd7ef;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#analyse{
+    font-family: 'Helvetica Neue';
+    justify-content: center;
+    font-size: 32px;
+    font-style: italic;
+    font-weight: 900;
+    line-height: 47.64px;
+    text-align: center;
+}
+
+.analyse-subtext{
+    font-family: 'SF Compact Medium';
+    font-size: 13px;
+    line-height: 0.8;
+
+}
+
+.left2{
+    height: 25%;
+    border-radius: 20px;
+    background-color: #D2D2D2;
+    background: url("../../public/Deliverables/left-2.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.elevate{
+    font-family: 'Helvetica Neue';
+    color: #FFFFFF;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: 900;
+    line-height: 35.03px;
+    text-align: left;
+}
+
+.left3{
+    height: 40%;
+    border-radius: 20px;
+    background-color: aquamarine;
+    background: url("../../public/Deliverables/left-3.png");
+    background-size: cover;
+    color: #FFFFFF;
+    font-family: 'Helvetica Neue';
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 900;
+    line-height: 43.03px;
+}    
+
+.middle1{
+    height: 64%;
+    background-image: url('../../public/Deliverables/middle-1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+}
+
+.middle1_text{
+    font-family: 'Helvetica Neue';
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 900;
+    line-height: 41.84px;
+}
+
+.middle1_subtext{
+    font-family: 'SF Compact Medium';
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 14.09px;
+    text-align: center;
+}
+
+.middle2{
+    height: 31%;
+    background-image: url('../../public/Deliverables/middle-2.png');
+    background-size: 80%;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-color: #5dd7ef;
+    border-radius: 20px;
+}
+
+#optimise{
+    font-family: 'Helvetica Neue';
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 900;
+    line-height: 47.64px;
+    text-align: right;    
+}
+
+.optimise_subtext{
+    font-family: "SF Compact Medium";
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 14.09px;
+    text-align: right;    
+}
+
+.right1{
+    height: 139.24px;
+    border-radius: 20px;
+    background-image: url('../../public/Deliverables/right1_bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.circle{
+    width: 28px;
+    height: 28px;
+    border-radius: 20px;
+    background-color: #5AD5EF;
+}
+
+.parameters{
+    font-family: 'Helvetica Neue';
+    font-size: 33.15px;
+    font-style: italic;
+    font-weight: 900;
+    line-height: 31.49px;
+    text-align: right;
+}
+
+.right2{
+    border-radius: 20px;
+    background: #5AD5EF;
+    height: 169px;
+    background-image: url('../../public/Deliverables/right2_bg.png');
+    background-position: bottom right;
+    background-size: 80%;
+    background-repeat: no-repeat;
+}
+
+#overcome{
+    font-family: 'Helvetica Neue';
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 900;
+    line-height: 47.64px;
+}
+
+.right_subtext{
+    font-family: "SF Compact Medium";
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 14.09px;
+}
+
+.right3{
+    border-radius: 20px;
+    height: 192px;
+    background-image: url('../../public/Deliverables/right3_bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Helvetica Neue';
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 900;
+    line-height: 35.03px;
+    text-align: left;    
+}

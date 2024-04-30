@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url('../public/Fonts/Helvetica\ Neue\ LTW0697BlkCnObl.woff2');
+  } 
+
+@font-face {
+  font-family: 'SF Compact Medium';
+  src: url('../public/Fonts/sf-compact-display-medium-5864711817c30.woff2');
+}
+
+@font-face {
+  font-family: 'SF Compact Thin';
+  src: url('../public/Fonts/sf-compact-display-thin-58646eb43a785.woff2');
+}
+
+@font-face {
+  font-family: 'Avenir LT Pro Medium';
+  src: url('../public/Fonts/AvenirLTProMedium.woff2');
+}

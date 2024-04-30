@@ -1,0 +1,116 @@
+#hero{
+    position: relative;
+    background-image: url('../../public/Hero/hero-bg.png');
+    height: 100vh;
+    width: auto;
+    background-size: cover;
+  }
+
+  .logo{
+    height: '40px'; 
+    width: '40px';
+  }
+
+  .heroTitle{
+    text-align: center;
+    font-family: 'Helvetica Neue';
+    font-style: italic;
+    margin: 13em 14em 0;
+    margin-top: 15em;
+  }
+
+  .heroTitleBubble{
+    background: #5AD5EF;
+    position: relative;
+    opacity: 0px;
+    font-family: 'SF Compact Medium';
+    display: flexbox;
+    font-weight: bold;
+    border: none;
+    box-shadow: 3px 3px 10px black;
+    font-weight: 656;
+  }
+
+  .heroDescription{
+    font-family: 'SF Compact Medium';
+    font-weight: 500;
+    font-weight: 18px;
+  }
+
+  #move{
+    top: -13em;
+    left: 8.125em;
+  }
+
+  #mend{
+    top: -7em;
+    left: -18.2em;
+
+  }
+
+  #master{
+    top: -0.6em;
+    left: 13em;
+  }
+
+  @media screen and (max-width:1280px) and (min-width:1024px) {
+
+    .heroTitleBubble{
+      font-size: smaller;
+      padding: 8px 15px;
+    }
+
+    #move{
+      top: -11.8em;
+      left: 7.5em;
+    }
+  
+    #mend{
+      top: -6.5em;
+      left: -16.5em;
+  
+    }
+  
+    #master{
+      top: -0.8em;
+      left: 12em;
+    }
+  }
+
+  @media screen and (max-width:1023px){
+
+    .heroTitleBubble{
+      font-size: x-small;
+      padding: 6px 12px;
+    }
+
+    #move{
+      top: -13.3em;
+      left: 7.8em;
+    }
+  
+    #mend{
+      top: -7.7em;
+      left: -18.2em;
+  
+    }
+  
+    #master{
+      top: -1.5em;
+      left: 13em;
+    }
+  }
+
+  @media screen and (max-width:768px) {
+
+    .heroTitle{
+      padding-left: 10em;
+      padding-right: 10em;
+    }
+  }
+
+  @media screen and (min-width: 1440) {
+    .heroTitle{
+      font-size: 8rem;
+    }
+  }
