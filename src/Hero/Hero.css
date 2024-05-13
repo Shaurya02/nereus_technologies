@@ -4,6 +4,7 @@
     height: 100vh;
     width: auto;
     background-size: cover;
+    scroll-behavior: smooth;
   }
 
   .logo{

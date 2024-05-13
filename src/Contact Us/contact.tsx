@@ -18,7 +18,7 @@ export default function ContactUs(){
     };
 
     return(
-        <div className='contactUs flex flex-col flex-row'>
+        <div className='contactUs flex flex-col flex-row' id='ContactUs'>
             <div className='p-12 pb-0 text-left'>
                 <h1 className='getInTouch inline-block'>GET IN TOUCH</h1>
             </div>

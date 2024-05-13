@@ -15,7 +15,7 @@
     height: 30%;
     width: 100%;
     border-radius: 20px;
-    background: url("../../public/Deliverables/left-1.png");
+    background: url("../../public/Solutions/left-1.png");
     background-position: 120%;
     background-color: #5dd7ef;
     background-size: contain;
@@ -43,7 +43,7 @@
     height: 25%;
     border-radius: 20px;
     background-color: #D2D2D2;
-    background: url("../../public/Deliverables/left-2.png");
+    background: url("../../public/Solutions/left-2.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -62,7 +62,7 @@
     height: 40%;
     border-radius: 20px;
     background-color: aquamarine;
-    background: url("../../public/Deliverables/left-3.png");
+    background: url("../../public/Solutions/left-3.png");
     background-size: cover;
     color: #FFFFFF;
     font-family: 'Helvetica Neue';
@@ -74,7 +74,7 @@
 
 .middle1{
     height: 64%;
-    background-image: url('../../public/Deliverables/middle-1.png');
+    background-image: url('../../public/Solutions/middle-1.png');
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 20px;
@@ -98,7 +98,7 @@
 
 .middle2{
     height: 31%;
-    background-image: url('../../public/Deliverables/middle-2.png');
+    background-image: url('../../public/Solutions/middle-2.png');
     background-size: 80%;
     background-repeat: no-repeat;
     background-position: left;
@@ -126,7 +126,7 @@
 .right1{
     height: 139.24px;
     border-radius: 20px;
-    background-image: url('../../public/Deliverables/right1_bg.png');
+    background-image: url('../../public/Solutions/right1_bg.png');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -151,7 +151,7 @@
     border-radius: 20px;
     background: #5AD5EF;
     height: 169px;
-    background-image: url('../../public/Deliverables/right2_bg.png');
+    background-image: url('../../public/Solutions/right2_bg.png');
     background-position: bottom right;
     background-size: 80%;
     background-repeat: no-repeat;
@@ -175,7 +175,7 @@
 .right3{
     border-radius: 20px;
     height: 192px;
-    background-image: url('../../public/Deliverables/right3_bg.png');
+    background-image: url('../../public/Solutions/right3_bg.png');
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Helvetica Neue';

@@ -1,9 +1,9 @@
 import React from "react";
-import './deliverables.css'
+import './solutions.css'
 
 export default function Deliverables() {
     return (
-        <div className="flex flex-col justify-center h-screen py-20" style={{backgroundColor: '#0C0C0C'}} id='deliverables'>
+        <div className="flex flex-col justify-center h-screen py-20" id='solutions' style={{backgroundColor: '#0C0C0C'}}>
             <div className="flex items-start justify-start text-start px-80">
                 <span className="spotlight text-2xl">
                     REVOLUTIONSING ATHLETE MONITORING
