@@ -62,8 +62,8 @@ export default function ContactUs(){
             </form>
             <div className='flex flex-row justify-between mt-8 ml-8 mr-8'>
                 <div className='flex flex-row justify-evenly' style={{width: '200px', marginTop: ''}}>
-                    <a href='#a'><img src='./Contact Us/instagram.png' alt='' className='contactIcon'></img></a>
-                    <a href='#a'><img src='./Contact Us/linkedin.png' alt='' className='contactIcon'></img></a>
+                    <a href='https://www.instagram.com/nereustechnologies?igsh=MTVjbWhlb2tlbHBuag=='><img src='./Contact Us/instagram.png' alt='' className='contactIcon'></img></a>
+                    <a href='https://www.linkedin.com/company/nereus-technologies-pvt-ltd/'><img src='./Contact Us/linkedin.png' alt='' className='contactIcon'></img></a>
                     <a href='#a'><img src='./Contact Us/facebook.png' alt='' className='contactIcon'></img></a>
                 </div>
                 <div className='mt-4'>
